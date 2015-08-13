@@ -1,6 +1,6 @@
 Simple script to install locally fonts on Mac or Linux systems.
 
-## Usage:
+### Usage:
 
     ./fontinstall.sh *.ttf
 
